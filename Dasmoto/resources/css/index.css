@@ -1,0 +1,36 @@
+h1, h2, h3, p, .Price {
+  font-family: Helvetica;
+}
+
+#Brushes, #Frames, #Paint {
+  color: white;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.Price {
+  font-weight: bold;
+  color: blue;
+}
+
+#PageTitle {
+  background-image: url(../images/pattern.jpg);
+}
+
+#Brushes {
+  background-color: mediumspringgreen;
+}
+
+#Frames {
+  background-color: lightcoral;
+}
+
+#Paint {
+  background-color: skyblue;
+}
